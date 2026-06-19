@@ -1,0 +1,5 @@
+com/currency/currencyconverter/service/CurrencyService.class
+com/currency/currencyconverter/CurrencyconverterApplication.class
+com/currency/currencyconverter/model/ConversionHistory.class
+com/currency/currencyconverter/controller/CurrencyController.class
+com/currency/currencyconverter/repository/ConversionRepository.class
